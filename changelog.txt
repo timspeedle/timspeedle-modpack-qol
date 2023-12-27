@@ -1,0 +1,65 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2023-12-27
+  Configuration changes:
+    - Check the README in the GitHub repo for further details of configuration changes made by this modpack
+    - Bottleneck Lite:
+      - Disabled color (gray)
+      - Insufficient input color (blue)
+      - Low power color (magenta)
+      - No minable resources color (blue)
+      - No power color (orange)
+    - Thicker Power Wires:
+      - Thicker power wires disabled
+      - Thicker wire shadows disabled
+  Mods added:
+    - AutoDeconstruct
+    - automatic-station-painter
+    - Automatic_Train_Painter
+    - AutoTrash
+    - belt-reverserup
+    - BlueprintTools
+    - BottleneckLite
+    - bullet-trails
+    - calculator-ui
+    - chest-auto-sort
+    - CleanedConcrete
+    - clock
+    - damage-numbers
+    - DisplayPlates
+    - EvenMoreTextPlates
+    - factory-inspector
+    - factoryplanner
+    - FactorySearch
+    - GhostWarnings
+    - GUI_Unifyer
+    - Gun_Turret_Alerts
+    - LTN-TCS-Refuel
+    - Milestones
+    - mining-patch-planner
+    - ModuleInserter
+    - PickerBeltTools
+    - PickerDollies
+    - PickerExtended
+    - PipeVisualizer
+    - puppy-vehicle-fuel-ui
+    - RateCalculator
+    - RealisticDecorationCleanup
+    - RecipeBook
+    - reskins-compatibility
+    - resourcehighlighter-dark
+    - solar-calc
+    - StatsGui
+    - Tapeline
+    - TaskList
+    - textplates
+    - ThickerLines
+    - Train_Control_Signals
+    - train-log
+    - UltimateResearchQueue
+    - UndergroundIndicators
+    - VehicleSnap
+    - WellPlanner_bzgas_fixed
+    - YARM
+  Uploaded by:
+    - timspeedle
