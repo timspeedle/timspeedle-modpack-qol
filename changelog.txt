@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2023-12-27
+  Mods added:
+    - auto_deconstruct_loot_reconstructed
+    - RemoteConfiguration
+    - remote-requests
+    - TintedGhosts
+    - Todo_List
+    - TrainModeSwitcher
+  Uploaded by:
+    - timspeedle
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2023-12-27
   Configuration changes:
